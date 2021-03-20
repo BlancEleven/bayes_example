@@ -1,4 +1,4 @@
-# Bayes' Theorum Game from *Real World Python* by Lee Vaughan
+# Bayes' Theorum Game from [*Real World Python*](https://nostarch.com/real-world-python) by Lee Vaughan
 
 ## Installation
 ### Apple M1:
